@@ -7,5 +7,5 @@ For a discussion of the models and methods used [see the final report](https://g
 **Useful resources**:
 
 - [Assignment](https://github.com/gabrieletiboni/Classification-on-Wine-dataset/blob/main/assignment.pdf)
-- [Code]()
+- [Code](https://github.com/gabrieletiboni/Classification-on-Wine-dataset/blob/main/CODE/main.py)
 - [Report](https://github.com/gabrieletiboni/Classification-on-Wine-dataset/blob/main/Report.pdf)
